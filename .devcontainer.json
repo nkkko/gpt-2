@@ -1,7 +1,7 @@
 {
     "name": "GPT-2 TensorFlow GPU",
     "build": {
-        "dockerfile": "Dockerfile",
+        "dockerfile": "Dockerfile.gpu",
         "context": ".."
     },
     "runArgs": [
